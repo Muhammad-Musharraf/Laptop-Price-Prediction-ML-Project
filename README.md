@@ -4,8 +4,7 @@ Predict laptop prices based on hardware specifications using Machine Learning.
 
 ## 📌 Overview
 
-This project aims to predict the price of a laptop using various hardware and software specifications such as company, processor, RAM, storage, GPU, screen resolution, operating system, and weight. The project follows a complete Machine Learning workflow including data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and deployment. Laptop price prediction projects commonly use regression models and extensive feature engineering on laptop specifications. ([Vishrut Bezbarua][1])
-
+This project aims to predict the price of a laptop using various hardware and software specifications such as company, processor, RAM, storage, GPU, screen resolution, operating system, and weight. The project follows a complete Machine Learning workflow including data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and deployment. Laptop price prediction projects commonly use regression models and extensive feature engineering on laptop specifications.
 ---
 
 ## 🚀 Features
@@ -61,7 +60,7 @@ The dataset contains laptop specifications including:
 * IPS Display
 * Price
 
-These features are commonly used in laptop price prediction datasets. ([Vishrut Bezbarua][1])
+These features are commonly used in laptop price prediction datasets. 
 
 ---
 
@@ -116,7 +115,7 @@ Models that can be tested:
 * Gradient Boosting Regressor
 * XGBoost Regressor
 
-Random Forest is a commonly used high-performing model in laptop price prediction projects. ([GitHub][2])
+Random Forest is a commonly used high-performing model in laptop price prediction projects.
 
 ### 6. Model Evaluation
 
